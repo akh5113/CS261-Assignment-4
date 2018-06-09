@@ -1,0 +1,159 @@
+
+flip3 ~/CS261/Assignment4 470% ./prog
+
+
+** TO-DO LIST APPLICATION **
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+l
+Please enter the filename: todo.txt
+The list has been loaded from file successfully.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+0        take a nap
+1        study heap-based priority queue
+3        do assignment 7
+101      review trees for Midterm 2
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+Please enter the task description: run
+Please enter the task priority (0-999): 15
+The task 'run' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+0        take a nap
+1        study heap-based priority queue
+3        do assignment 7
+15       run
+101      review trees for Midterm 2
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+g
+Your first task is: take a nap
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+r
+Your first task 'take a nap' has been removed from the list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+Please enter the task description: feed dog
+Please enter the task priority (0-999): 0
+The task 'feed dog' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+0        feed dog
+1        study heap-based priority queue
+3        do assignment 7
+15       run
+101      review trees for Midterm 2
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+Please enter the task description: make dinner
+Please enter the task priority (0-999): 312
+The task 'make dinner' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+0        feed dog
+1        study heap-based priority queue
+3        do assignment 7
+15       run
+101      review trees for Midterm 2
+312      make dinner
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+s
+Please enter the filename: answers.txt
+The list has been saved into the file successfully.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+e
+Bye!
+
+flip3 ~/CS261/Assignment4 471%

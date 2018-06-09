@@ -1,0 +1,7 @@
+0	 take a nap
+1	 study heap-based priority queue
+99	 barre
+3	 do assignment 7
+60	 run
+101	 review trees for Midterm 2
+300	 feed archie
